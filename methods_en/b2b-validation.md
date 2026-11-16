@@ -56,6 +56,14 @@ The product is sold to companies rather than individuals, and a problem, value, 
 | Signals per company | one template, comparison by segments |
 | Deal forecast | funnel, stage durations, seasonality |
 
+## Quality criteria
+- The hypothesis is broken down by deal roles (user / buyer / decision-maker / blocker); the monetization question is tested with the paying role.
+- The segment sampling plan is fulfilled: 3–5 companies per segment, including "cold" and churned ones, not only friendly ones.
+- Evidence is the client's resources (money, time, data, people), not statements of interest.
+- The pilot has boundaries fixed before the start: scope, duration, a success criterion on the client's data, who signs off the result.
+- Signals are collected per company in a single template and aggregated by segment; the segment conclusion is not built on one anchor client.
+- The deal forecast accounts for cycle length and the budget calendar, not "warm" contacts.
+
 ## Typical mistakes
 - Testing the purchase hypothesis with the user instead of the buyer/decision-maker.
 - Counting "interesting, send a deck" as demand evidence; evidence is client resources (money, time, data, people).

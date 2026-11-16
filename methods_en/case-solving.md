@@ -97,6 +97,14 @@ not a solution; a solution without the root problem is a decoration of the sympt
 - Risks and the verification method stated; the first check is cheap and dated.
 - The verdict fits one paragraph and reads without context.
 
+## Quality criteria
+- The task is restated in your own words with constraints; it is clear what is actually asked: problem, metric, or solution.
+- The root problem is reached: "if we remove it, the symptom goes away" is verified, not assumed.
+- The AS-IS picture relies on the case data; missing data is marked as assumptions, not invented.
+- There are at least three substantially different options; the choice and conscious rejections are explained.
+- The effect is expressed in metrics with a baseline and a target shift; counter-metrics and the order of magnitude of the economics are named.
+- The verdict fits one paragraph: problem → solution → effect → first validation; first steps have owners and deadlines.
+
 ## Common mistakes
 | Mistake | Outcome | Right move |
 |---|---|---|

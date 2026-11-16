@@ -66,6 +66,15 @@ You need to explain to management and finance how a product decision shows up in
 | NPV/payback (for an investment case) | |
 | Actuals-vs-model control | |
 
+## Quality criteria
+- The model answers a specific decision question (budget / business case / investment case / headcount), not "finances in general".
+- Revenue is built from the growth model by segments with seasonality; costs are split across all four classification axes.
+- Unit economics is reconciled with P&L: the gap is computed and explained, not ignored.
+- Cash Flow is shown separately from profit: cash gaps are visible month by month.
+- Sensitivity covers 3–5 scenarios; assumption precision is higher for the lines that move EBITDA the most.
+- For an investment case, NPV and payback are computed in the pessimistic scenario, not only the base one.
+- Fact-vs-model control is scheduled with a date; the conditions for revisiting the case are written down.
+
 ## Typical mistakes
 - Confusing profit and money: the model is profitable, the cash gap in the rollout month is unnoticed.
 - All expenses "split equally across the product": indirect ones distributed without logic, unit economics profitably fake.

@@ -91,6 +91,14 @@ Verdict (noise/normal/problem) | Owner | Deadline`
 - The metric within every segment holds; only the structure changed.
 - The data is confirmed by an independent source.
 
+## Quality criteria
+- Data quality is checked first: event collection, SDK versions, cross-check against an independent source.
+- Comparison windows are comparable (week over week, season over season); the metric's volatility is known and accounted for.
+- The metric is decomposed into factors and segments; a specific falling branch is found, not the "hospital average".
+- Mix is separated from behavior: each segment is compared with its own past period.
+- The product-change timeline is matched against the metric timeline; cannibalization and external factors are checked.
+- The verdict is assigned to one category (noise / normal / problem); for a problem — hypothesis, cheapest check, owner and deadline; alert thresholds are updated.
+
 ## Common mistakes
 | Mistake | Outcome | Right move |
 |---|---|---|

@@ -97,6 +97,14 @@ Quadrant | Action (model/scenario/background/registry) | Signals | Owner | Revie
 - The ignored ones have a condition for returning into analysis.
 - The next review date is scheduled.
 
+## Quality criteria
+- The horizon is fixed; separate matrices are built for different horizons.
+- Impact is estimated in product units (money, % of a metric) with a source or an "assumption" mark, not "strong/weak" by eye.
+- Uncertainty is the spread of plausible outcomes (ideally from independent estimates), not personal ignorance.
+- Every row in the top-right quadrant has outcomes, signals, no-regret moves / option bets, an owner and a review date.
+- Ignored factors have a written condition for returning to the analysis.
+- The next review is scheduled (date / trigger); the analysis budget actually went into the top-right quadrant.
+
 ## Common mistakes
 | Mistake | Outcome | Right move |
 |---|---|---|

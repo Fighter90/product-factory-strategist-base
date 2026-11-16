@@ -60,6 +60,15 @@ Stacks combine: a typical MVP = a low-code interface (or a chatbot) + a workflow
 | What is NOT in the MVP (in writing) | |
 | Continue/close criterion on the metric | |
 
+## Quality criteria
+- The pipeline covers one task end to end: input → processing → output → logging; "what is NOT in the MVP" is written down.
+- The hypothesis and its validation metric are defined before the build; they carry a continue / rework / close criterion.
+- The stack matches the hypothesis; an assumption about rewriting after validation is recorded.
+- Every run is logged (input, output, user rating) — there is something to analyze a week later.
+- For the model part: test cases with expected outputs and a quality threshold, not "by eye".
+- Minimum production plumbing is in place: secrets outside the code, retries/timeouts, a cost counter, an error log.
+- The build fits into 1–2 weeks; otherwise the scope is cut, not "built faster".
+
 ## Typical mistakes
 - Building a two-month "MVP" with billing, registration, and an admin panel — that is a product without validation, not a hypothesis check.
 - A demo instead of an MVP: shown once by the author, runs not logged, nothing to analyze.

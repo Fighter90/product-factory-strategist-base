@@ -58,6 +58,14 @@ The market map is already collected ([[M-competitors]]): you know who is on the 
 | Decisions: copy / counter / ignore | with justification |
 | Monitoring: frequency, owner | |
 
+## Quality criteria
+- The teardown goal is tied to a decision ("why we lose users to them"), not "study the competitor".
+- The competitor's full user journey is walked and recorded: where they are better or worse than us, with numbers (steps, time).
+- The winning model is stated: product / channel / economics / brand — what drives their growth and where they are vulnerable.
+- Revenue and user-base estimates carry a range and a source and are separated from facts; hearsay is marked as testimonial.
+- The competitor's user reviews are analyzed: pains become differentiation candidates.
+- Every finding is converted into a decision: copy / counter / ignore — justified through our own model; monitoring is scheduled.
+
 ## Typical mistakes
 - A teardown for its own sake: screenshots collected, but no decision on "what we do differently".
 - Copying features without the model: a feature works in their economics but not in ours.

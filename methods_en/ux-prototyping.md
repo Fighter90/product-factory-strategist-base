@@ -87,6 +87,14 @@ from low to high levels, never the other way around.
 - Users are the target segment; 5–8 participants planned.
 - A findings format is ready (a note after each session).
 
+## Quality criteria
+- The interface hypothesis and the test question are written down; the success metric is defined before the build.
+- Fidelity is minimally sufficient for the hypothesis; iterations go from lower to higher levels.
+- Tasks are phrased in user terms; non-working branches are honestly stubbed.
+- The prototype passed dogfooding before user sessions; content in critical places is realistic.
+- The test runs on 5–8 users of the target segment; behavior is recorded, not opinions.
+- The loop is closed: findings led to fixes and a re-test of the critical steps; exit by the target task-completion rate.
+
 ## Common mistakes
 | Mistake | Outcome | Right move |
 |---|---|---|

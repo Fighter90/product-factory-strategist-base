@@ -63,6 +63,14 @@ Fix in advance: the metric threshold (what counts as success), sample size/MDE (
 | Confidence level and its limits | |
 | Conditions for revisiting the conclusion | new data, date, trigger |
 
+## Quality criteria
+- For an irreversible decision the set contains at least one direct input; testimonial data is not the only basis.
+- Inputs are independent: different methods, data, samples; duplicates (one base, different methods) are removed or counted as a single input.
+- The sufficiency criterion is written before collection: thresholds, sample sizes, number of inputs, who declares the set sufficient.
+- The strength of each input is named on the scale; the conclusion is no stronger than the weakest critical input.
+- Contradictions between inputs are resolved by strength, not by convenience; the confidence level is stated in the decision document.
+- Revision conditions are fixed: which data and when will force a re-review.
+
 ## Typical mistakes
 - A set of interviews alone for an irreversible decision (all inputs testimonial and dependent).
 - Triangulation with duplicates: "three surveys" on the same base of loyal customers.

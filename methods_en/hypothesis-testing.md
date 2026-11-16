@@ -63,6 +63,13 @@ A product hypothesis has been formulated and the question "how do we validate it
 | Failure criterion fixed in advance | what counts as "no" |
 | Who decides on the result | role, deadline |
 
+## Quality criteria
+- The hypothesis is rewritten in testable form: action, segment, metric, deadline, mechanism; the data that would force a "no" is named.
+- Success and failure criteria are fixed before data collection (metric + threshold + deadline); who decides on the result is assigned.
+- The chosen method matches the hypothesis type and is able to refute it; sample bias is named and accounted for in the conclusion.
+- The cost of a wrong decision is estimated and the method is minimally sufficient: saved effort without losing the ability to change the decision.
+- Raw data is kept; the conclusion is classified as one of three: confirmed / refuted / not tested.
+
 ## Typical mistakes
 - Testing a monetization hypothesis with "would you pay?" instead of a payment test.
 - Starting with an expensive method (a full survey, A/B on heavy traffic) when 5 interviews in a day can answer.

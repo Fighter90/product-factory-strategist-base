@@ -51,6 +51,14 @@ A quick answer to a specific question is needed (today–tomorrow), and there is
 | Evidence strength | weak signal / refutation |
 | Next validation step | |
 
+## Quality criteria
+- One question is tested; the refuting observation is formulated before collection.
+- The script has no leading questions and no "would you pay"; open questions cover past experience and facts.
+- Sampling biases of the collection channels are named; refusals and "does not fit the profile" are counted as part of the data.
+- n and respondent types are stated next to any number, marked "convenience sample".
+- The result is classified honestly: weak signal / refutation; no generalization to the whole market.
+- The next validation step is assigned to match the cost of the decision, instead of "we'll draw conclusions".
+
 ## Typical mistakes
 - Generalizing to the market: "60% of 15 respondents" ≠ 60% of the audience.
 - Leading questions: "it must be inconvenient when…" — collecting politeness, not data.
