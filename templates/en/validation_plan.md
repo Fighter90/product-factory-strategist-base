@@ -18,6 +18,19 @@
 | Counter-metric | Stop threshold |
 |---|---|
 
+### KPI of two planes
+| Plane | Metric | Formula |
+|---|---|---|
+| Business | Revenue/MRR | payments × average check (per period) |
+| Business | Payers | unique payers per period |
+| Business | Conversion to payment | payers / registered |
+| Business | LTV/CAC | (average check × margin × repeat purchases) / CAC |
+| Product | <key feature metric> | <formula from 04> |
+| Product | <counter-metric> | <formula from 06 "Undesired consequences"> |
+
+Filled in before launch: "Product" rows come from 04, "Business" rows are ready formulas;
+six-pager FAQ-6 assembles two planes (Business/Product) from this table.
+
 ### Decision criteria
 - Continue if …; change if …; stop if …
 
