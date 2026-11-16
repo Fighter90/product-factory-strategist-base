@@ -21,7 +21,7 @@ The hypothesis is formulated ([[M-mvp-pilots]]) and the first testable version o
 | Stack | What it is | When to choose | Limitations |
 |---|---|---|---|
 | Code + API (Python/JS) | a script/backend, calls to models and services via API | logic/data needed, quality control, a step toward production | requires programming skills |
-| Workflow automation (n8n-like visual pipelines) | nodes-steps: trigger → request → model → action | gluing processes and integrations without code, automating routine, an MVP demo in hours | complex logic and scaling hit a ceiling; costs grow with the number of runs |
+| Workflow automation (no-code visual pipelines) | nodes-steps: trigger → request → model → action | gluing processes and integrations without code, automating routine, an MVP demo in hours | complex logic and scaling hit a ceiling; costs grow with the number of runs |
 | Low-code builders | ready interfaces/bots on top of forms | a UI for the user "out of the box", a concept demo | minimal customization, platform lock-in |
 
 Stacks combine: a typical MVP = a low-code interface (or a chatbot) + a workflow pipeline + models via API + a table/database for storing responses.
