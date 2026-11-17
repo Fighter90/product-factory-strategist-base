@@ -2,7 +2,7 @@
 id: M-product-frameworks
 title: Продуктовые фреймворки — что, когда и зачем
 course: synthesis
-sources: ["Синтез курсов продуктовой методологических материалов и product-skills"]
+sources: ["Синтез курсов продуктовой внешних источников и product-skills"]
 stages: [intake, research, discovery, situation, options, choice, strategy, validation, review, after-decision]
 tags: [фреймворки, приоритизация, метрики, процесс, hadi, гипотезы]
 related: [M-double-diamond, M-lean-canvas, M-goals-drivers-bets, M-success-metrics, M-product-metrics, M-monetization]

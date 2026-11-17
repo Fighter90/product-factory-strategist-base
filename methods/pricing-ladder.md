@@ -2,7 +2,7 @@
 id: M-pricing-ladder
 title: Ценообразование тарифной лестницы — ARPU-микс, freemium-конверсия, CAC платящего, годовые планы
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: монетизация и юнит-экономика", "Модель монетизации: зрелость Pay-and-Pray → подписка → аукцион"]
+sources: ["Синтез курсов продуктовой внешних источников: монетизация и юнит-экономика", "Модель монетизации: зрелость Pay-and-Pray → подписка → аукцион"]
 stages: [strategy, validation]
 tags: [ценообразование, тарифы, лестница, arpu, freemium, cac-платящего, годовые-планы, value-metric]
 related: [M-monetization, M-unit-economics, M-van-westendorp, M-traction-model, M-cannibalization, M-ab-testing]

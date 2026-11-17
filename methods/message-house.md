@@ -2,7 +2,7 @@
 id: M-message-house
 title: Коммуникационная стратегия — message house, доказательства обещаний, барьер понимания
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: коммуникационная стратегия", "Message house как каркас корпоративных и продуктовых сообщений"]
+sources: ["Синтез курсов продуктовой внешних источников: коммуникационная стратегия", "Message house как каркас корпоративных и продуктовых сообщений"]
 stages: [strategy, validation]
 tags: [коммуникация, message-house, сообщения, позиционирование, барьер-понимания, доказательства, обещания]
 related: [M-usp, M-positioning-dunford, M-product-communication, M-committee-doc-style, M-source-criticism, M-jtbd]

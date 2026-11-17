@@ -2,7 +2,7 @@
 id: M-weighted-scoring
 title: Взвешенный скоринг вариантов и фильтры — критерии, веса, go/no-go до скоринга
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: приоритизация и выбор вариантов", "Практики decision matrix / weighted scoring"]
+sources: ["Синтез курсов продуктовой внешних источников: приоритизация и выбор вариантов", "Практики decision matrix / weighted scoring"]
 stages: [options, choice]
 tags: [скоринг, приоритизация, критерии, веса, фильтры, decision-matrix, калибровка]
 related: [M-prioritization-ricews, M-goals-drivers-bets, M-decision-daci, M-solution-design, M-problem-design, M-product-frameworks]

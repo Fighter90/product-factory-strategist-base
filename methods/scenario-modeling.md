@@ -2,7 +2,7 @@
 id: M-scenario-modeling
 title: Сценарное моделирование эффекта — пессимистичный, базовый и оптимистичный сценарии, чувствительность
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: прогнозирование и модели роста", "Практики scenario planning и sensitivity analysis"]
+sources: ["Синтез курсов продуктовой внешних источников: прогнозирование и модели роста", "Практики scenario planning и sensitivity analysis"]
 stages: [options, validation, decision]
 tags: [сценарии, модель, прогноз, чувствительность, драйверы, допущения, tornado]
 related: [M-traction-model, M-model-validation, M-forecasting-product, M-model-topdown-bottomup, M-risks, M-cannibalization]

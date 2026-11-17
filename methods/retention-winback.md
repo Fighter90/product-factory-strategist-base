@@ -2,7 +2,7 @@
 id: M-retention-winback
 title: Удержание платных подписок и win-back — дюннинг, save-флоу, причины отмен, возврат клиентов
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: retention и подписные модели", "Публичные отраслевые обзоры involuntary churn и дюннинга"]
+sources: ["Синтез курсов продуктовой внешних источников: retention и подписные модели", "Публичные отраслевые обзоры involuntary churn и дюннинга"]
 stages: [validation, after-decision, monitoring]
 tags: [удержание, подписки, churn, дюннинг, save-offer, win-back, gross-retention, resurrection]
 related: [M-retention-curves, M-product-metrics, M-loyalty-metrics, M-unit-economics, M-cannibalization, M-ab-testing]

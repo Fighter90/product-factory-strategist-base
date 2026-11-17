@@ -2,7 +2,7 @@
 id: M-gtm-market-entry
 title: Выход на новый рынок (GTM по странам) — локализация, налоги и платежи, регуляторика данных
 course: strategy
-sources: ["Синтез курсов продуктовой методологических материалов: go-to-market и вывод на рынок", "Публичные регуляторные обзоры (GDPR, VAT OSS, локальные платёжные системы)"]
+sources: ["Синтез курсов продуктовой внешних источников: go-to-market и вывод на рынок", "Публичные регуляторные обзоры (GDPR, VAT OSS, локальные платёжные системы)"]
 stages: [situation, strategy, validation]
 tags: [gtm, рынок, страны, локализация, vat, платежи, mor, регуляторика, чек-лист]
 related: [M-gtm-launch, M-market-sizing, M-external-environment, M-competitors, M-unit-economics, M-risks]

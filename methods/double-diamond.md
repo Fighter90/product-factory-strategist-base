@@ -2,7 +2,7 @@
 id: M-double-diamond
 title: Двойной алмаз (Double Diamond) — каркас процесса от проблемы к решению
 course: synthesis
-sources: ["UK Design Council: Double Diamond", "Синтез курсов продуктовой методологических материалов"]
+sources: ["UK Design Council: Double Diamond", "Синтез курсов продуктовой внешних источников"]
 stages: [intake, research, discovery, situation, options, choice, strategy, validation, review]
 tags: [процесс, фреймворки, double-diamond]
 related: [M-product-frameworks, M-jtbd, M-problem-design, M-solution-design]
